@@ -15,7 +15,7 @@ Rawr is a piece of code created based on AlpineLinux, Rawr uses GoTTY (a simple 
 ### Installing
 
 * Fork this repository and deploy it in you Paas provider ( Most providers have an option to deploy from github)
-* Any modifications needed to be made to files/folders
+* You can edit the `Dockerfile` as you wish to add/remove packages.
 
 ## Help
 
