@@ -14,7 +14,7 @@ Rawr is a piece of code created based on AlpineLinux, Rawr uses GoTTY (a simple 
 
 ### Installing
 
-* Fork this repository and deploy it in you Paas provider ( Most providers have an option to deploy from github)
+* Fork this repository and deploy it in you PaaS provider ( Most providers have an option to deploy from github)
 * You can edit the `Dockerfile` as you wish to add/remove packages.
 
 ## Help
@@ -41,4 +41,4 @@ This project is licensed under the `[MIT]` License - see the **LICENSE** file fo
 ## Acknowledgments
 
 People who have helped to create and maintain this project.
-* [@BearCodes](https://bearcodes.vercel.app/)
+* [@BearCodes](https://bearcodes.vercel.app/) - Creator
