@@ -25,7 +25,8 @@ If you face any errors or issue while using rawr, feel free to use the `issues` 
 
 Contributors
 
-* [@BearCodes]([https://twitter.com/dompizzie](https://bearcodes.vercel.app/))
+* [@BearCodes](https://bearcodes.vercel.app/)
+
 
 ## Version History
 
@@ -42,4 +43,4 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 ## Acknowledgments
 
 People who have helped to create and maintain this project.
-* [@BearCodes]([https://twitter.com/dompizzie](https://bearcodes.vercel.app/))
+* [@BearCodes](https://bearcodes.vercel.app/)
