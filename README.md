@@ -23,8 +23,6 @@ If you face any errors or issue while using rawr, feel free to use the `issues` 
 
 ## Authors
 
-Contributors
-
 * [@BearCodes](https://bearcodes.vercel.app/)
 
 
@@ -38,7 +36,7 @@ Contributors
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the `[MIT]` License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
