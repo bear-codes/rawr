@@ -36,7 +36,7 @@ If you face any errors or issue while using rawr, feel free to use the `issues` 
 
 ## License
 
-This project is licensed under the `[MIT]` License - see the LICENSE.md file for details
+This project is licensed under the `[MIT]` License - see the **LICENSE** file for details
 
 ## Acknowledgments
 
